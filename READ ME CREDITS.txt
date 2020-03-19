@@ -1,0 +1,54 @@
+==========The Midnight Train to Nowhere==========
+
+Title	 	The Midnight Train to Nowhere
+Version		1.0
+Tool		RPG Maker MV
+Creator		Mannytsu
+Genre		Adventure
+
+==========About==========
+
+George boards the last train of the day. It leaves at midnight, and the destination: Nowhere...
+
+The game was created for Indie Game Maker Contest 2017 in a span of one month.
+
+==========Controls==========
+
+Arrow keys		Move
+Z/Space/Enter		Select, Investigate
+X/Esc			Menu, Cancel
+Hold Shift		Run
+
+==========Credits==========
+
+Story, art and programming by Mannytsu
+e-mail		mannytsusgames@gmail.com
+#twítter 	@marieriina
+devblog		mannytsusgames.tumblr.com
+
+Music: http://www.purple-planet.com (Under the terms of a Creative Commons Attribution License 3.0, http://www.purple-planet.com/using-our-free-music/4583818250)
+Songs used: "Cafe Bleu", "Pacific Whalesong" and "Prohibition Blues"
+
+Sound effects: 	freesound.org (Under the Creative Commons 0 License)
+		Vivian Reapalu
+
+Royalty free plugins used in the game:
+
+HimeWorks
+	Window Background Colors http://himeworks.com/2016/04/window-background-colors/
+
+JavaHut
+	Save Extension v1.03 https://rpgmakermv.co/resources/javahuts-save-extension-2nd-plugin.1069/
+
+mjshi
+	Non-Combat Menu v1.04 https://forums.rpgmakerweb.com/index.php?threads/non-combat-menu.56344/
+
+Yanfly Engine:
+	Message Core http://yanfly.moe/2015/10/10/yep-2-message-core/
+	Extended Message Pack 1 http://yanfly.moe/2016/01/30/yep-65-extended-message-pack-1/
+
+==========Update Log==========
+
+05/11/2017	v. 1.0 Release
+
+==============================
